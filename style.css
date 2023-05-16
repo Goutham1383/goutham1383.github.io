@@ -159,9 +159,9 @@ nav ul li a:hover::after{
     margin-bottom: 15px;
 }
 .project-list div a{
-    text-decoration: none;
-    color: white;
-    font-size: 12px;
+    text-decoration: underline;
+    color:whitesmoke;
+    font-size: 14px;
     margin-top: 20px;
     display: inline-block;
 }
@@ -203,7 +203,7 @@ nav ul li a:hover::after{
     text-decoration: none;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: 700;
-    color: wheat;
+    color: white;
     background-color: #ff004f;
     height: 50px;
     display: inline-block;
